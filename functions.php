@@ -2,9 +2,6 @@
 
 declare(strict_types=1);
 
-
-// function getText($get) {
-
 $contents = [
   'Barney' => ['name' => 'Barney Stinson',
                'text' => '“When I get sad, I stop being sad and be awesome instead.”',
@@ -41,20 +38,3 @@ $contents = [
                'pubdate' => '2015-10-07',
                'likes' => 24
              ],
-
-
-];
-function getText($get) {
-  foreach ($contents as $get => $content) {
-    echo $get;
-  }
-
-}
-getText('name', 'text');  
-//
-//   foreach ($contents as $id => $content) {
-//     echo $get['$content'];
-//   }
-// }
-//
-// return var_dump('getText');

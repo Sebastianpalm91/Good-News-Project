@@ -1,6 +1,6 @@
 <?php
 require __DIR__.'/data.php';
-require __DIR__.'/functions.php';
+// require __DIR__.'/functions.php';
 
 ?>
 
@@ -15,11 +15,12 @@ require __DIR__.'/functions.php';
   <title>Good-News</title>
 </head>
 <body>
-  <img class="header-barney" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif"</a>
+  <img class="header-barney" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif">
   <div class="container">
 
     <?php foreach($contents as $id => $content):?>
       <div class="contain">
+        <!-- CHANGE NAME TO H2 TEXT TO P ATHUORE TO SOMETHING ELSE  -->
         <div class="name"><?php echo $content['name']; ?></div>
         <div class="text"><?php echo $content['text']; ?></div>
         <div class="authorname"><?php echo $content['authorname']; ?></div>
@@ -29,6 +30,6 @@ require __DIR__.'/functions.php';
     <?php endforeach; ?>
 
   </div>
-  <img class="header-barney1" src="https://media.giphy.com/media/897vm5ABNbgFW/giphy.gif"</a>
+  <img class="header-barney1" src="https://media.giphy.com/media/897vm5ABNbgFW/giphy.gif">
 </body>
 </html>
