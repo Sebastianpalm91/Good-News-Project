@@ -15,6 +15,13 @@ body {
   background-size: cover;
   background-attachment: fixed;
 }
+
+h1 {
+  font-size: 35px;
+  color: white;
+  text-align: center;
+}
+
 @keyframes barney {
   from {
     transform: rotate(-180deg);

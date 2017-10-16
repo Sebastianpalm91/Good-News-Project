@@ -34,16 +34,8 @@ $contents = [
 
   'Barney3' => ['name' => 'Sheldon Cooper',
                'text' => 'I know the real reason you never made progress with that idea. You thought of it September 22nd 2007.
-                          Two days later, Penny moved in and so much blood rushed to your genitals, your brain became a ghost town.'
+                          Two days later, Penny moved in and so much blood rushed to your genitals, your brain became a ghost town.',
                'authorname' => '— Sheldon Cooper, Bing Bang Theory',
-               'pubdate' => '2015-10-07',
-               'likes' => 24
-             ],
-  'Barney4' => ['name' => 'Barney Stinson',
-               'text' => '“Article 100: "When pulling up to a stoplight, a Bro lowers his window so that all might enjoy his music selection."
-                           Corollary: "If there happens to be a hot chick driving the car next to the Bro, the Bro shall put his sunglasses down to get a better look.
-                           If he\'s not wearing his sunglasses, he will first put them on, then pull down to get a better look.”',
-               'authorname' => '- Barney Stinson',
                'pubdate' => '2015-10-07',
                'likes' => 24
              ],
@@ -57,42 +49,43 @@ $contents = [
                'likes' => 24
              ],
 
+  'Barney4' => ['name' => 'Sheldon Cooper',
+              'text' => '“There\'s no denying that I have feelings for you that can\'t be explained in any other way.
+                          I briefly considered that I had a brain parasite, but that seems even more far-fetched. The only conclusion was love."',
+              'authorname' => '— Sheldon Cooper, Bing Bang Theory',
+              'pubdate' => '2015-10-07',
+              'likes' => 24
+             ],
+
   'Barney6' => ['name' => 'Barney Stinson',
-               'text' => '“Article 100: "When pulling up to a stoplight, a Bro lowers his window so that all might enjoy his music selection."
-                           Corollary: "If there happens to be a hot chick driving the car next to the Bro, the Bro shall put his sunglasses down to get a better look.
-                           If he\'s not wearing his sunglasses, he will first put them on, then pull down to get a better look.”',
+               'text' => '“Article 24: "When wearing a baseball cap,
+                           a Bro may position the brim at either 12 or 6 o’clock. All other angles are reserved for rappers and the handicapped.” ',
                'authorname' => '- Barney Stinson',
                'pubdate' => '2015-10-07',
                'likes' => 24
              ],
-  'Barney7' => ['name' => 'Barney Stinson',
-               'text' => '“Article 100: "When pulling up to a stoplight, a Bro lowers his window so that all might enjoy his music selection."
-                           Corollary: "If there happens to be a hot chick driving the car next to the Bro, the Bro shall put his sunglasses down to get a better look.
-                           If he\'s not wearing his sunglasses, he will first put them on, then pull down to get a better look.”',
-               'authorname' => '- Barney Stinson',
+  'Barney7' => ['name' => 'Sheldon Cooper',
+               'text' => '“The correct animal for inter-species super soldier is the koala.
+                           You would wind up with an army so cute, it couldn\'t be attacked.',
+               'authorname' => '— Sheldon Cooper, Bing Bang Theory',
                'pubdate' => '2015-10-07',
                'likes' => 24
               ],
   'Barney8' => ['name' => 'Barney Stinson',
-               'text' => '“Article 100: "When pulling up to a stoplight, a Bro lowers his window so that all might enjoy his music selection."
-                           Corollary: "If there happens to be a hot chick driving the car next to the Bro, the Bro shall put his sunglasses down to get a better look.
-                           If he\'s not wearing his sunglasses, he will first put them on, then pull down to get a better look.”',
+               'text' => '“ARTICLE 54 A Bro is required to go out with his Bros on St. Patty’s Day and other official Bro holidays,
+                           including Halloween, New Year’s Eve, and Desperation Day (February 13).”',
                'authorname' => '- Barney Stinson',
                'pubdate' => '2015-10-07',
                'likes' => 24
               ],
-   'Barney9' => ['name' => 'Barney Stinson',
-               'text' => '“Article 100: "When pulling up to a stoplight, a Bro lowers his window so that all might enjoy his music selection."
-                           Corollary: "If there happens to be a hot chick driving the car next to the Bro, the Bro shall put his sunglasses down to get a better look.
-                           If he\'s not wearing his sunglasses, he will first put them on, then pull down to get a better look.”',
-               'authorname' => '- Barney Stinson',
+   'Barney9' => ['name' => 'Sheldon Cooper',
+               'text' => '“Oh gravity, thou art a heartless bitch."',
+               'authorname' => '— Sheldon Cooper, Bing Bang Theory',
                'pubdate' => '2015-10-07',
                'likes' => 24
               ],
    'Barney10' => ['name' => 'Barney Stinson',
-               'text' => '“Article 100: "When pulling up to a stoplight, a Bro lowers his window so that all might enjoy his music selection."
-                           Corollary: "If there happens to be a hot chick driving the car next to the Bro, the Bro shall put his sunglasses down to get a better look.
-                           If he\'s not wearing his sunglasses, he will first put them on, then pull down to get a better look.”',
+               'text' => '“A lie is just a really great story that someone ruined with the truth.”',
                'authorname' => '- Barney Stinson',
                'pubdate' => '2015-10-07',
                'likes' => 24
