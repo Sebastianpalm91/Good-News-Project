@@ -21,6 +21,7 @@ h1 {
   color: white;
   text-align: center;
 }
+/*ANIMATIONS FOR HEADER-BARNEY AND GIPHS*/
 
 @keyframes barney {
   from {
@@ -59,21 +60,6 @@ h1 {
   margin: auto;
   margin-top: 150px;
   margin-bottom: 60px;
-}
-
-#demo {
-  color: white;
-  height: 30%;
-  width: 20%;
-  display: flex;
-  justify-content: center;
-  margin: auto;
-  margin-top: 20px;
-}
-button {
-  display: flex;
-  justify-content: center;
-  margin: auto;
 }
 
 /*CONAINERS FOR THE BLOG FEED*/
@@ -138,4 +124,21 @@ button {
   padding-left: 40px;
   padding-top: 10px;
   margin: 0;
+}
+
+/*JAVASCRIPT STYLE */
+
+#demo {
+  color: white;
+  height: 40%;
+  width: 40%;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  margin-top: 20px;
+}
+button {
+  display: flex;
+  justify-content: center;
+  margin: auto;
 }

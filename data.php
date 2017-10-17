@@ -3,6 +3,8 @@
 declare(strict_types=1);
 
 
+
+
 $contents = [
   'Barney' => ['name' => 'Barney Stinson',
                'text' => '“When I get sad, I stop being sad and be awesome instead.”',
