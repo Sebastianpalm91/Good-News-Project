@@ -1,9 +1,10 @@
 <?php
+// HARDCODED THE DIRECTORY FROM WHERE TO GET IT WITH __DIR__
 require __DIR__.'/data.php';
 require __DIR__.'/functions.php';
 
 ?>
-
+ 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -22,7 +23,9 @@ require __DIR__.'/functions.php';
   <img class="header-barney" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif">
   <div class="container">
 
+    <!-- FOREACH LOOP, GETTING DATA FROM DATA.PHP AND LOOPS THE NUMBER OF ARRAYS -->
     <?php foreach($contents as $id => $content):?>
+      <!-- CONTAIN WITHING THE LOOP MAKES IT LOOP WITH THE DATA.PHP -->
       <div class="contain">
         <!-- CHANGE NAME TO H2 TEXT TO P ATHUORE TO SOMETHING ELSE  -->
         <h2 class="name"><?php echo $content['name']; ?></h2>
