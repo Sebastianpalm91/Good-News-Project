@@ -15,7 +15,7 @@ require __DIR__.'/functions.php';
   <title>Good-News</title>
 </head>
 <body>
-  <h1>Barney and Sheldon have seen you here: <?php echo $_SESSION['views']; ?> times</h1>
+  <h1>Barney and Sheldon have seen you here: <?php echo $_SESSION['views']; ?> time(s)</h1>
   <img class="header-barney" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif">
   <div class="container">
 
