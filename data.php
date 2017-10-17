@@ -16,7 +16,7 @@ $contents = [
   'Barney1' => ['name' => 'Sheldon Cooper',
                'text' => '“Scissors cuts paper, paper covers rock, rock crushes lizard, lizard poisons Spock, Spock smashes scissors,
                            scissors decapitates lizard, lizard eats paper, paper disproves Spock, Spock vaporizes rock, and as it always has, rock crushes scissors."',
-               'authorname' => '— Sheldon Cooper, Bing Bang Theory',
+               'authorname' => ['id' => '002', 'namea' => 'Sheldon Cooper, Bing Bang Theory'],
                'pubdate' => '2013-06-04',
                'likes' => 19
              ],
@@ -37,7 +37,7 @@ $contents = [
   'Barney3' => ['name' => 'Sheldon Cooper',
                'text' => 'I know the real reason you never made progress with that idea. You thought of it September 22nd 2007.
                           Two days later, Penny moved in and so much blood rushed to your genitals, your brain became a ghost town.',
-               'authorname' => '— Sheldon Cooper, Bing Bang Theory',
+               'authorname' => ['id' => '004', 'namea' => 'Sheldon Cooper, Bing Bang Theory'],
                'pubdate' => '2014-01-07',
                'likes' => 87
              ],
@@ -46,7 +46,7 @@ $contents = [
                'text' => '“Article 100: "When pulling up to a stoplight, a Bro lowers his window so that all might enjoy his music selection."
                          Corollary: "If there happens to be a hot chick driving the car next to the Bro, the Bro shall put his sunglasses down to get a better look.
                          If he\'s not wearing his sunglasses, he will first put them on, then pull down to get a better look.”',
-               'authorname' => ['id' => '003', 'namea' =>  'Barney Stinson, HIMYM'],
+               'authorname' => ['id' => '005', 'namea' =>  'Barney Stinson, HIMYM'],
                'pubdate' => '2014-05-17',
                'likes' => 224
              ],
@@ -54,7 +54,7 @@ $contents = [
   'Barney4' => ['name' => 'Sheldon Cooper',
               'text' => '“There\'s no denying that I have feelings for you that can\'t be explained in any other way.
                           I briefly considered that I had a brain parasite, but that seems even more far-fetched. The only conclusion was love."',
-              'authorname' => '— Sheldon Cooper, Bing Bang Theory',
+              'authorname' => ['id' => '006', 'namea' => 'Sheldon Cooper, Bing Bang Theory'],
               'pubdate' => '2015-07-04',
               'likes' => 93
              ],
@@ -62,38 +62,37 @@ $contents = [
   'Barney6' => ['name' => 'Barney Stinson',
                'text' => '“Article 24: "When wearing a baseball cap,
                            a Bro may position the brim at either 12 or 6 o’clock. All other angles are reserved for rappers and the handicapped.” ',
-               'authorname' => ['id' => '003', 'namea' =>  'Barney Stinson, HIMYM'],
+               'authorname' => ['id' => '007', 'namea' =>  'Barney Stinson, HIMYM'],
                'pubdate' => '2014-12-27',
                'likes' => 36
              ],
   'Barney7' => ['name' => 'Sheldon Cooper',
                'text' => '“The correct animal for inter-species super soldier is the koala.
                            You would wind up with an army so cute, it couldn\'t be attacked.',
-               'authorname' => '— Sheldon Cooper, Bing Bang Theory',
+               'authorname' => ['id' => '008', 'namea' => 'Sheldon Cooper, Bing Bang Theory'],
                'pubdate' => '2013-11-09',
                'likes' => 76
               ],
   'Barney8' => ['name' => 'Barney Stinson',
                'text' => '“ARTICLE 54 A Bro is required to go out with his Bros on St. Patty’s Day and other official Bro holidays,
                            including Halloween, New Year’s Eve, and Desperation Day (February 13).”',
-               'authorname' => ['id' => '003', 'namea' =>  'Barney Stinson, HIMYM'],
+               'authorname' => ['id' => '009', 'namea' =>  'Barney Stinson, HIMYM'],
                'pubdate' => '2012-02-19',
                'likes' => 47
               ],
    'Barney9' => ['name' => 'Sheldon Cooper',
                'text' => '“Oh gravity, thou art a heartless bitch."',
-               'authorname' => '— Sheldon Cooper, Bing Bang Theory',
+               'authorname' => ['id' => '0010', 'namea' => 'Sheldon Cooper, Bing Bang Theory'],
                'pubdate' => '2011-06-14',
                'likes' => 198
               ],
    'Barney10' => ['name' => 'Barney Stinson',
                'text' => '“A lie is just a really great story that someone ruined with the truth.”',
-               'authorname' => ['id' => '003', 'namea' =>  'Barney Stinson, HIMYM'],
+               'authorname' => ['id' => '0011', 'namea' =>  'Barney Stinson, HIMYM'],
                'pubdate' => '2010-09-21',
                'likes' => 456
               ],
 ];
 
-$id = ['namea']
 
  ?>
