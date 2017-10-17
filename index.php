@@ -17,8 +17,6 @@ require __DIR__.'/functions.php';
 </head>
 <body>
 
-
-  <img src="" alt="">
   <h1>Barney and Sheldon have seen you here: <?php echo $_SESSION['views']; ?> time(s)</h1>
   <img class="header-barney" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif">
   <div class="container">
@@ -30,7 +28,7 @@ require __DIR__.'/functions.php';
         <!-- CHANGE NAME TO H2 TEXT TO P ATHUORE TO SOMETHING ELSE  -->
         <h2 class="name"><?php echo $content['name']; ?></h2>
         <p class="text"><?php echo $content['text']; ?></p>
-        <h5 class="authorname"><?php echo $content['authorname']; ?></h5>
+        <h5 class="authorname"><?php echo $content['authorname']['namea']; ?></h5>
         <h6 class="pubdate"><?php echo $content['pubdate'].'<br>'; ?></h6>
         <div class="likes"><?php echo $content['likes']; ?></div>
       </div>

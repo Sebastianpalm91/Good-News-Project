@@ -8,7 +8,7 @@ declare(strict_types=1);
 $contents = [
   'Barney' => ['name' => 'Barney Stinson',
                'text' => '“When I get sad, I stop being sad and be awesome instead.”',
-               'authorname' => '- Barney Stinson',
+               'authorname' => ['id' => '001', 'namea' =>  'Barney Stinson, HIMYM'],
                'pubdate' => '2014-08-20',
                'likes' => 24
              ],
@@ -29,7 +29,7 @@ $contents = [
                           Plus it\'s Sunday, so everyone\'s in church already, and they\'re all in there like "Oh no, Jesus is dead",
                           and then BAM! He bursts in the back door, runnin\' up the aisle, everyone\'s totally psyched, and FYI, that\'s when he invented the high five.
                           That\'s why we wait three days to call a woman, because that\'s how long Jesus wants us to wait.... True story.',
-               'authorname' => '- Barney Stinson, HIMYM',
+               'authorname' => ['id' => '003', 'namea' =>  'Barney Stinson, HIMYM'],
                'pubdate' => '2016-03-10',
                'likes' => 112
              ],
@@ -46,7 +46,7 @@ $contents = [
                'text' => '“Article 100: "When pulling up to a stoplight, a Bro lowers his window so that all might enjoy his music selection."
                          Corollary: "If there happens to be a hot chick driving the car next to the Bro, the Bro shall put his sunglasses down to get a better look.
                          If he\'s not wearing his sunglasses, he will first put them on, then pull down to get a better look.”',
-               'authorname' => '- Barney Stinson',
+               'authorname' => ['id' => '003', 'namea' =>  'Barney Stinson, HIMYM'],
                'pubdate' => '2014-05-17',
                'likes' => 224
              ],
@@ -62,7 +62,7 @@ $contents = [
   'Barney6' => ['name' => 'Barney Stinson',
                'text' => '“Article 24: "When wearing a baseball cap,
                            a Bro may position the brim at either 12 or 6 o’clock. All other angles are reserved for rappers and the handicapped.” ',
-               'authorname' => '- Barney Stinson',
+               'authorname' => ['id' => '003', 'namea' =>  'Barney Stinson, HIMYM'],
                'pubdate' => '2014-12-27',
                'likes' => 36
              ],
@@ -76,7 +76,7 @@ $contents = [
   'Barney8' => ['name' => 'Barney Stinson',
                'text' => '“ARTICLE 54 A Bro is required to go out with his Bros on St. Patty’s Day and other official Bro holidays,
                            including Halloween, New Year’s Eve, and Desperation Day (February 13).”',
-               'authorname' => '- Barney Stinson',
+               'authorname' => ['id' => '003', 'namea' =>  'Barney Stinson, HIMYM'],
                'pubdate' => '2012-02-19',
                'likes' => 47
               ],
@@ -88,11 +88,12 @@ $contents = [
               ],
    'Barney10' => ['name' => 'Barney Stinson',
                'text' => '“A lie is just a really great story that someone ruined with the truth.”',
-               'authorname' => '- Barney Stinson',
+               'authorname' => ['id' => '003', 'namea' =>  'Barney Stinson, HIMYM'],
                'pubdate' => '2010-09-21',
                'likes' => 456
               ],
 ];
 
+$id = ['namea']
 
  ?>
