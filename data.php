@@ -4,6 +4,8 @@ declare(strict_types=1);
 
 
 
+$copyYear = 2017; // SETTING WHEN WEB STARTED
+$curYear = date('Y'); //MAKE YEAR UP TO DATE
 
 $contents = [
   'Barney' => ['name' => 'Barney Stinson',
