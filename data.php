@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 
 
-$copyYear = 2017; // SETTING WHEN WEB STARTED
+$copyYear = 2016; // SETTING WHEN WEB STARTED
 $curYear = date('Y'); //MAKE YEAR UP TO DATE
 
 $contents = [

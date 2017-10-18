@@ -51,7 +51,7 @@ require __DIR__.'/functions.php';
 
 
     <img class="header-barney1" src="https://media.giphy.com/media/897vm5ABNbgFW/giphy.gif">
-    <!-- DATE AND YEAR COPYWRIGHT PHP FUNCTION. WITH CONCATINATION -->
+    <!-- DATE AND YEAR COPYWRIGHT PHP FUNCTION. WITH CONCATINATION, WRITES IF START YEAR IS CUR YEAR WRITE: COPYWRIGHT -->
     <footer class="footer"> &copy; <?php echo $copyYear . (($copyYear != $curYear) ? '-' . $curYear : 'Copyright.');?></footer>
 </body>
 </html>
