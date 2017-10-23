@@ -17,7 +17,6 @@ require __DIR__.'/functions.php';
 </head>
 <body>
 
-
     <h1>Barney and Sheldon have seen you here: <?php echo $_SESSION['views']; ?> time(s)</h1>
     <img class="header-barney" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif">
     <div class="container">

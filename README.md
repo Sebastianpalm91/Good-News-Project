@@ -1,5 +1,7 @@
 # Good-News-Project
 
+The first PHP-Project!
+<img src="https://media.giphy.com/media/jAugkVty2VCDu/giphy.gif" width="100%" alt="">
 ## Welcome to my Good News Project!
 
 Following the instructions below to get started:
