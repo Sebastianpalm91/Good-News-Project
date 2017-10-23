@@ -12,9 +12,15 @@ The first PHP-Project!
 4, Open up the browser and enter this (if you are on mac) "localhost:8888" or (if you are on windows, depending on open ports) "http://localhost:8888"
 5, Due to that all the data i stored in your cloned directory you are now set.
 
+### Below follows a list of criterias for this assignment.
 
+-> Title
+-> Content
+-> Author
+-> Published date
+-> Like counter (the number of likes a news feed item has received)
 
-TESTING DONE BY:
+### TESTING DONE BY:
 
 1, Chistopher Mattsson
 2, Henrik Bielsten
