@@ -79,7 +79,7 @@ h1 {
   flex-direction: column;
   justify-content: center;
   margin-bottom: 20px;
-  background-color: rgba(120, 120, 120, 0.92);
+  background-color: rgba(119, 119, 119, 0.97);
 }
 
 .name {
@@ -145,5 +145,7 @@ button {
 
 .footer {
   color: white;
+  text-align: center;
+  padding-bottom: 10px;
 
 }

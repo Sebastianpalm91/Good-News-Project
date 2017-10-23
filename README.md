@@ -1,6 +1,6 @@
 # Good-News-Project
 
-Welcome to my Good News Project!
+## Welcome to my Good News Project!
 
 Following the instructions below to get started:
 
