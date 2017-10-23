@@ -18,7 +18,7 @@ body {
 
 h1 {
   font-size: 35px;
-  color: white;
+  color: #F0E8D3;
   text-align: center;
 }
 /*ANIMATIONS FOR HEADER-BARNEY AND GIPHS*/
@@ -79,7 +79,7 @@ h1 {
   flex-direction: column;
   justify-content: center;
   margin-bottom: 20px;
-  background-color: rgba(119, 119, 119, 0.97);
+  background-color: #F0E8D3;
 }
 
 .name {
@@ -100,7 +100,7 @@ h1 {
 }
 
 .likes {
-  color: white;
+  color: #040E76;
   margin: auto;
   background-image: url(social_copy.png);
   background-size: contain;
@@ -124,6 +124,7 @@ h1 {
   padding-left: 40px;
   padding-top: 10px;
   margin: 0;
+  color: #040E76;
 }
 
 /*JAVASCRIPT STYLE */
