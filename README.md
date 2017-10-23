@@ -1,7 +1,9 @@
 # Good-News-Project
 
 The first PHP-Project!
-<img src="https://media.giphy.com/media/jAugkVty2VCDu/giphy.gif" width="100%" alt="">
+<img src="https://media.giphy.com/media/jAugkVty2VCDu/giphy.gif" width="50%" alt="">
+<img src="https://media.giphy.com/media/fOVGTYyYtV6Ra/giphy.gif" width="50%" alt="">
+
 ## Welcome to my Good News Project!
 
 ### Following the instructions below to get started:
@@ -12,7 +14,7 @@ The first PHP-Project!
 4, Open up the browser and enter this (if you are on mac) "localhost:8888" or (if you are on windows, depending on open ports) "http://localhost:8888"<br>
 5, Due to that all the data i stored in your cloned directory you are now set.
 
-### Below follows a list of criterias for this assignment.
+### Below follows a list of criterias for this assignment:
 
 -> Title<br>
 -> Content<br>
