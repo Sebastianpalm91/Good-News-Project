@@ -22,6 +22,6 @@ The first PHP-Project!
 
 ### TESTING DONE BY:
 
-1, Chistopher Mattsson
-2, Henrik Bielsten
+1, Chistopher Mattsson<br>
+2, Henrik Bielsten<br>
 3, Andreas Lundqvist
