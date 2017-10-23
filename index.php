@@ -41,7 +41,7 @@ require __DIR__.'/functions.php';
         // CALLING THE FUNCTION AND USING INNEHTML TO REVEAL WHATS INSIDE WHEN TRIGGERED.
         // ADDED A HREF THEN USED AN IMAGE WITH SET WIDTH AND HEIGHT WITHOUT THE <A IT DIDNT WORK.
         function myFunction() {
-            document.getElementById("demo").innerHTML = "<a href='#'><img src='https://media.giphy.com/media/KzM1lAfJjCWNq/giphy.gif'/></a>" ;
+            document.getElementById("demo").innerHTML = "<a href='#'><img src='https://media.giphy.com/media/3osxYACfOYULLSpNjG/giphy.gif'/></a>" ;
         }
         </script>
 
